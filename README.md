@@ -21,7 +21,7 @@ When the user reach the end of the tutorial,then a section about the author and 
 
 ## LINK TO REGEX TUTORIAL
 
-[REGEX TUTORIAL]()
+[REGEX TUTORIAL](https://gist.github.com/priyankav89/aa541e48db20e27dcc01dec6d1321d7f)
 
 
 
